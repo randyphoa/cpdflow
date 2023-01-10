@@ -1,3 +1,11 @@
+<p>
+  <b>
+    This project has been superseded by <a href="https://github.com/crossdeploy-io/crossdeploy" title="crossdeploy">crossdeploy</a>.
+  </b>
+</p>
+
+---
+
 <p align="center">
   <img src="https://cpdflow.readthedocs.io/en/latest/_images/logo.png" alt="cpdflow" />
 </p>
